@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+com.wesco.ordermgmt.config.KafkaTestContainersSpringContextCustomizerFactory,\
+com.wesco.ordermgmt.config.SqlTestContainersSpringContextCustomizerFactory,\
+com.wesco.ordermgmt.config.TestContainersSpringContextCustomizerFactory
